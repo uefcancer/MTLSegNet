@@ -18,9 +18,8 @@
 
 Install python packages
 ```
-1. git clone https://github.com/uefcancer/Deepdensity.git
-2. cd Deepdensity
-3. pip install -r requirements.txt
+1. git clone https://github.com/uefcancer/MTLSegNet.git
+2. pip install -r requirements.txt
 ```
 #
 ## 2. Dataset Structure
